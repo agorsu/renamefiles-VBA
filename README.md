@@ -2,7 +2,7 @@
 Simple batch file renaming tool for excel
 
 ## Description
-Rename files is a small but handy spreadsheet tool that can help save time in renaming a large number of files within a folder. It will load in all the files inside a folder, allowing you to set a naming convention for the entire batch, file extension and unique name or list of names to apply to the files.
+Rename files is a small but handy spreadsheet tool that can help save time in renaming a large batch of files within a folder. After choosing a folder, tt will load in all the filenames into a table allowing you to set a naming convention from any list of names and apply it to the all the files.
 
 ## How to use
 1. Click the 'select folder' button to choose the path of the the files to be renamed.
